@@ -14,7 +14,7 @@ Flow:
 - Application can be accessed using curl.
 
 ### Architecture
-
+```text
 MAC OS
    |
 Vagrant
@@ -26,7 +26,7 @@ Docker
 Kubernetes
    |
 Flask Application
-
+```
 ### Technologies and Tools used
 
 - Vagrant
